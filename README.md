@@ -33,7 +33,7 @@ C:\Steam\userdata\ Account Id \730\local\
 ```
 7. You're done!
 
-### Required software
+## Required software
 To make full use of this config pack You need to have installed:
 * [Half Life Advanced Effects](http://advancedfx.org/) - Remember to use the latest version!
 * [FFMPEG](https://ffmpeg.zeranoe.com/builds/)
@@ -50,10 +50,10 @@ where:
 and
 
  -h stands for height
-#### Use of the tool
+# Use of the tool
 **This section is yet to be filled.**
 
-##### Contact me
+## Contact me
 * [YouTube](https://www.youtube.com/channel/UC3bBnCaxlJZImGsoiI8ZbzA)
 * [Fiverr](https://www.fiverr.com/twissen/)
 * [Steam](https://steamcommunity.com/id/twissen/)
